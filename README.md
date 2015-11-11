@@ -33,7 +33,7 @@ Now open `atreus_bluetooth.scad` and make sure the case version you aren't using
 
 printing
 --------
-You can print it yourself, or you can buy the part you need on Shapeways (DXF case version or OpenSCAD case version).  To print it yourself, prepare the files as noted above, render, and export as STL.  If you have a smaller printer, you can comment out three of the last four lines of `atreus_bluetooth.scad` to split it into quarters.
+You can print it yourself, or you can buy the part you need on Shapeways ([DXF case version](http://www.shapeways.com/product/6C3B7ECJP/atreus-bluetooth-dxf-version) or [OpenSCAD case version](http://www.shapeways.com/product/MCNK779ES/atreus-bluetooth-openscad-version)).  To print it yourself, prepare the files as noted above, render, and export as STL.  If you have a smaller printer, you can comment out three of the last four lines of `atreus_bluetooth.scad` to split it into quarters.
 
 disassembly
 -----------
